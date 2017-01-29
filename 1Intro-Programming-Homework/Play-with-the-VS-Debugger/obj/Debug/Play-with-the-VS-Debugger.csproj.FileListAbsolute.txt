@@ -1,0 +1,8 @@
+D:\Programmierung\C#\Intro-Programming-Homework\Play-with-the-VS-Debugger\bin\Debug\Play-with-the-VS-Debugger.exe.config
+D:\Programmierung\C#\Intro-Programming-Homework\Play-with-the-VS-Debugger\bin\Debug\Play-with-the-VS-Debugger.exe
+D:\Programmierung\C#\Intro-Programming-Homework\Play-with-the-VS-Debugger\bin\Debug\Play-with-the-VS-Debugger.pdb
+D:\Programmierung\C#\Intro-Programming-Homework\Play-with-the-VS-Debugger\obj\Debug\Play-with-the-VS-Debugger.exe
+D:\Programmierung\C#\Intro-Programming-Homework\Play-with-the-VS-Debugger\obj\Debug\Play-with-the-VS-Debugger.pdb
+D:\Programmierung\C#\C#Fundamentals\1Intro-Programming-Homework\Play-with-the-VS-Debugger\bin\Debug\Play-with-the-VS-Debugger.exe.config
+D:\Programmierung\C#\C#Fundamentals\1Intro-Programming-Homework\Play-with-the-VS-Debugger\obj\Debug\Play-with-the-VS-Debugger.exe
+D:\Programmierung\C#\C#Fundamentals\1Intro-Programming-Homework\Play-with-the-VS-Debugger\obj\Debug\Play-with-the-VS-Debugger.pdb

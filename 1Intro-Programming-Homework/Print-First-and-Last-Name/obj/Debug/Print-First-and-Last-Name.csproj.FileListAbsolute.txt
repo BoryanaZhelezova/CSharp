@@ -1,0 +1,6 @@
+D:\Programmierung\C#\Intro-Programming-Homework\Print-First-and-Last-Name\bin\Debug\Print-First-and-Last-Name.exe.config
+D:\Programmierung\C#\Intro-Programming-Homework\Print-First-and-Last-Name\bin\Debug\Print-First-and-Last-Name.exe
+D:\Programmierung\C#\Intro-Programming-Homework\Print-First-and-Last-Name\bin\Debug\Print-First-and-Last-Name.pdb
+D:\Programmierung\C#\Intro-Programming-Homework\Print-First-and-Last-Name\obj\Debug\Print-First-and-Last-Name.exe
+D:\Programmierung\C#\Intro-Programming-Homework\Print-First-and-Last-Name\obj\Debug\Print-First-and-Last-Name.pdb
+D:\Programmierung\C#\Intro-Programming-Homework\Print-First-and-Last-Name\obj\Debug\Print-First-and-Last-Name.csprojResolveAssemblyReference.cache

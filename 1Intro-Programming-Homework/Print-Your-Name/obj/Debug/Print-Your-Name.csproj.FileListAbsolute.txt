@@ -1,0 +1,6 @@
+D:\Programmierung\C#\Intro-Programming-Homework\Print-Your-Name\bin\Debug\Print-Your-Name.exe.config
+D:\Programmierung\C#\Intro-Programming-Homework\Print-Your-Name\bin\Debug\Print-Your-Name.exe
+D:\Programmierung\C#\Intro-Programming-Homework\Print-Your-Name\bin\Debug\Print-Your-Name.pdb
+D:\Programmierung\C#\Intro-Programming-Homework\Print-Your-Name\obj\Debug\Print-Your-Name.exe
+D:\Programmierung\C#\Intro-Programming-Homework\Print-Your-Name\obj\Debug\Print-Your-Name.pdb
+D:\Programmierung\C#\Intro-Programming-Homework\Print-Your-Name\obj\Debug\Print-Your-Name.csprojResolveAssemblyReference.cache

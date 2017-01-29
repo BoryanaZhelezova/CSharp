@@ -1,0 +1,5 @@
+D:\Programmierung\C#\Intro-Programming-Homework\Current-Date-and-Time\bin\Debug\Current-Date-and-Time.exe.config
+D:\Programmierung\C#\Intro-Programming-Homework\Current-Date-and-Time\bin\Debug\Current-Date-and-Time.exe
+D:\Programmierung\C#\Intro-Programming-Homework\Current-Date-and-Time\bin\Debug\Current-Date-and-Time.pdb
+D:\Programmierung\C#\Intro-Programming-Homework\Current-Date-and-Time\obj\Debug\Current-Date-and-Time.exe
+D:\Programmierung\C#\Intro-Programming-Homework\Current-Date-and-Time\obj\Debug\Current-Date-and-Time.pdb
