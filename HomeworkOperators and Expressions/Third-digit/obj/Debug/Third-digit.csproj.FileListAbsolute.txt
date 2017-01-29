@@ -1,0 +1,5 @@
+D:\Programmierung\C#\HomeworkOperators and Expressions\Third-digit\bin\Debug\Third-digit.exe.config
+D:\Programmierung\C#\HomeworkOperators and Expressions\Third-digit\bin\Debug\Third-digit.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\Third-digit\bin\Debug\Third-digit.pdb
+D:\Programmierung\C#\HomeworkOperators and Expressions\Third-digit\obj\Debug\Third-digit.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\Third-digit\obj\Debug\Third-digit.pdb

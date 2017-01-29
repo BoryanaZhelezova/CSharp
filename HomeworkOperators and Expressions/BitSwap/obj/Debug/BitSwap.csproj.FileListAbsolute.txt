@@ -1,0 +1,8 @@
+D:\Programmierung\C#\HomeworkOperators and Expressions\BitSwap\bin\Debug\BitSwap.exe.config
+D:\Programmierung\C#\HomeworkOperators and Expressions\BitSwap\bin\Debug\BitSwap.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\BitSwap\bin\Debug\BitSwap.pdb
+D:\Programmierung\C#\HomeworkOperators and Expressions\BitSwap\obj\Debug\BitSwap.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\BitSwap\obj\Debug\BitSwap.pdb
+D:\Programmierung\C#\C#Fundamentals\HomeworkOperators and Expressions\BitSwap\bin\Debug\BitSwap.exe.config
+D:\Programmierung\C#\C#Fundamentals\HomeworkOperators and Expressions\BitSwap\obj\Debug\BitSwap.exe
+D:\Programmierung\C#\C#Fundamentals\HomeworkOperators and Expressions\BitSwap\obj\Debug\BitSwap.pdb

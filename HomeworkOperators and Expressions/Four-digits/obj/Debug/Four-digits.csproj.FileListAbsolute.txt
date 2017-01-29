@@ -1,0 +1,5 @@
+D:\Programmierung\C#\HomeworkOperators and Expressions\Four-digits\bin\Debug\Four-digits.exe.config
+D:\Programmierung\C#\HomeworkOperators and Expressions\Four-digits\bin\Debug\Four-digits.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\Four-digits\bin\Debug\Four-digits.pdb
+D:\Programmierung\C#\HomeworkOperators and Expressions\Four-digits\obj\Debug\Four-digits.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\Four-digits\obj\Debug\Four-digits.pdb

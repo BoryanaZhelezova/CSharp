@@ -1,0 +1,5 @@
+D:\Programmierung\C#\HomeworkOperators and Expressions\Nth-Bit\bin\Debug\Nth-Bit.exe.config
+D:\Programmierung\C#\HomeworkOperators and Expressions\Nth-Bit\bin\Debug\Nth-Bit.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\Nth-Bit\bin\Debug\Nth-Bit.pdb
+D:\Programmierung\C#\HomeworkOperators and Expressions\Nth-Bit\obj\Debug\Nth-Bit.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\Nth-Bit\obj\Debug\Nth-Bit.pdb

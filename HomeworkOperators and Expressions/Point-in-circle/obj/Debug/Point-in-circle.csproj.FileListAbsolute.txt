@@ -1,0 +1,5 @@
+D:\Programmierung\C#\HomeworkOperators and Expressions\Point-in-circle\bin\Debug\Point-in-circle.exe.config
+D:\Programmierung\C#\HomeworkOperators and Expressions\Point-in-circle\bin\Debug\Point-in-circle.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\Point-in-circle\bin\Debug\Point-in-circle.pdb
+D:\Programmierung\C#\HomeworkOperators and Expressions\Point-in-circle\obj\Debug\Point-in-circle.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\Point-in-circle\obj\Debug\Point-in-circle.pdb

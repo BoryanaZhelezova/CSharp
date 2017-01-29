@@ -1,0 +1,11 @@
+D:\Programmierung\C#\HomeworkOperators and Expressions\ThirdBit\bin\Debug\ThirdBit.exe.config
+D:\Programmierung\C#\HomeworkOperators and Expressions\ThirdBit\bin\Debug\ThirdBit.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\ThirdBit\bin\Debug\ThirdBit.pdb
+D:\Programmierung\C#\HomeworkOperators and Expressions\ThirdBit\obj\Debug\ThirdBit.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\ThirdBit\obj\Debug\ThirdBit.pdb
+D:\Programmierung\C#\C#Fundamentals\HomeworkOperators and Expressions\ThirdBit\bin\Debug\ThirdBit.exe.config
+D:\Programmierung\C#\C#Fundamentals\HomeworkOperators and Expressions\ThirdBit\obj\Debug\ThirdBit.exe
+D:\Programmierung\C#\C#Fundamentals\HomeworkOperators and Expressions\ThirdBit\obj\Debug\ThirdBit.pdb
+D:\Programmierung\C#\C#Fundamentals\HomeworkOperators and Expressions\ThirdBit\bin\Debug\ThirdBit.exe
+D:\Programmierung\C#\C#Fundamentals\HomeworkOperators and Expressions\ThirdBit\bin\Debug\ThirdBit.pdb
+D:\Programmierung\C#\C#Fundamentals\HomeworkOperators and Expressions\ThirdBit\obj\Debug\ThirdBit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Programmierung\C#\HomeworkOperators and Expressions\Modify-Bit\bin\Debug\Modify-Bit.exe.config
+D:\Programmierung\C#\HomeworkOperators and Expressions\Modify-Bit\bin\Debug\Modify-Bit.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\Modify-Bit\bin\Debug\Modify-Bit.pdb
+D:\Programmierung\C#\HomeworkOperators and Expressions\Modify-Bit\obj\Debug\Modify-Bit.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\Modify-Bit\obj\Debug\Modify-Bit.pdb

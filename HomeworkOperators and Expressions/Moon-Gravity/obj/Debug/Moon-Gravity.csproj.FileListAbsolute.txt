@@ -1,0 +1,5 @@
+D:\Programmierung\C#\HomeworkOperators and Expressions\Moon-Gravity\bin\Debug\Moon-Gravity.exe.config
+D:\Programmierung\C#\HomeworkOperators and Expressions\Moon-Gravity\bin\Debug\Moon-Gravity.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\Moon-Gravity\bin\Debug\Moon-Gravity.pdb
+D:\Programmierung\C#\HomeworkOperators and Expressions\Moon-Gravity\obj\Debug\Moon-Gravity.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\Moon-Gravity\obj\Debug\Moon-Gravity.pdb

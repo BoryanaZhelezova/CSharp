@@ -1,0 +1,5 @@
+D:\Programmierung\C#\HomeworkOperators and Expressions\BitExchange\bin\Debug\BitExchange.exe.config
+D:\Programmierung\C#\HomeworkOperators and Expressions\BitExchange\bin\Debug\BitExchange.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\BitExchange\bin\Debug\BitExchange.pdb
+D:\Programmierung\C#\HomeworkOperators and Expressions\BitExchange\obj\Debug\BitExchange.exe
+D:\Programmierung\C#\HomeworkOperators and Expressions\BitExchange\obj\Debug\BitExchange.pdb
