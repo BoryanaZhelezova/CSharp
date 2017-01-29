@@ -1,0 +1,5 @@
+D:\Programmierung\C#\ConditionalStatements\Digit-as-Word\bin\Debug\Digit-as-Word.exe.config
+D:\Programmierung\C#\ConditionalStatements\Digit-as-Word\bin\Debug\Digit-as-Word.exe
+D:\Programmierung\C#\ConditionalStatements\Digit-as-Word\bin\Debug\Digit-as-Word.pdb
+D:\Programmierung\C#\ConditionalStatements\Digit-as-Word\obj\Debug\Digit-as-Word.exe
+D:\Programmierung\C#\ConditionalStatements\Digit-as-Word\obj\Debug\Digit-as-Word.pdb

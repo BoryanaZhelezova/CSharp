@@ -1,0 +1,5 @@
+D:\Programmierung\C#\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+D:\Programmierung\C#\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+D:\Programmierung\C#\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+D:\Programmierung\C#\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+D:\Programmierung\C#\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

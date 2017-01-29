@@ -1,0 +1,5 @@
+D:\Programmierung\C#\ConditionalStatements\Biggest-3\bin\Debug\Biggest-3.exe.config
+D:\Programmierung\C#\ConditionalStatements\Biggest-3\bin\Debug\Biggest-3.exe
+D:\Programmierung\C#\ConditionalStatements\Biggest-3\bin\Debug\Biggest-3.pdb
+D:\Programmierung\C#\ConditionalStatements\Biggest-3\obj\Debug\Biggest-3.exe
+D:\Programmierung\C#\ConditionalStatements\Biggest-3\obj\Debug\Biggest-3.pdb

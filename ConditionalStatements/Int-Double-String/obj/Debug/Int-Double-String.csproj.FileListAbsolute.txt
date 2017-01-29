@@ -1,0 +1,8 @@
+D:\Programmierung\C#\ConditionalStatements\Int-Double-String\bin\Debug\Int-Double-String.exe.config
+D:\Programmierung\C#\ConditionalStatements\Int-Double-String\bin\Debug\Int-Double-String.exe
+D:\Programmierung\C#\ConditionalStatements\Int-Double-String\bin\Debug\Int-Double-String.pdb
+D:\Programmierung\C#\ConditionalStatements\Int-Double-String\obj\Debug\Int-Double-String.exe
+D:\Programmierung\C#\ConditionalStatements\Int-Double-String\obj\Debug\Int-Double-String.pdb
+D:\Programmierung\C#\C#Fundamentals\ConditionalStatements\Int-Double-String\bin\Debug\Int-Double-String.exe.config
+D:\Programmierung\C#\C#Fundamentals\ConditionalStatements\Int-Double-String\obj\Debug\Int-Double-String.exe
+D:\Programmierung\C#\C#Fundamentals\ConditionalStatements\Int-Double-String\obj\Debug\Int-Double-String.pdb

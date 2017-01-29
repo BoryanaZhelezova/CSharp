@@ -1,0 +1,5 @@
+D:\Programmierung\C#\ConditionalStatements\Bonus-Score\bin\Debug\Bonus-Score.exe.config
+D:\Programmierung\C#\ConditionalStatements\Bonus-Score\bin\Debug\Bonus-Score.exe
+D:\Programmierung\C#\ConditionalStatements\Bonus-Score\bin\Debug\Bonus-Score.pdb
+D:\Programmierung\C#\ConditionalStatements\Bonus-Score\obj\Debug\Bonus-Score.exe
+D:\Programmierung\C#\ConditionalStatements\Bonus-Score\obj\Debug\Bonus-Score.pdb

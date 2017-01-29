@@ -1,0 +1,5 @@
+D:\Programmierung\C#\ConditionalStatements\Sort-3-Numbers\bin\Debug\Sort-3-Numbers.exe.config
+D:\Programmierung\C#\ConditionalStatements\Sort-3-Numbers\bin\Debug\Sort-3-Numbers.exe
+D:\Programmierung\C#\ConditionalStatements\Sort-3-Numbers\bin\Debug\Sort-3-Numbers.pdb
+D:\Programmierung\C#\ConditionalStatements\Sort-3-Numbers\obj\Debug\Sort-3-Numbers.exe
+D:\Programmierung\C#\ConditionalStatements\Sort-3-Numbers\obj\Debug\Sort-3-Numbers.pdb

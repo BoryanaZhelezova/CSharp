@@ -1,0 +1,5 @@
+D:\Programmierung\C#\ConditionalStatements\Play-card\bin\Debug\Play-card.exe.config
+D:\Programmierung\C#\ConditionalStatements\Play-card\bin\Debug\Play-card.exe
+D:\Programmierung\C#\ConditionalStatements\Play-card\bin\Debug\Play-card.pdb
+D:\Programmierung\C#\ConditionalStatements\Play-card\obj\Debug\Play-card.exe
+D:\Programmierung\C#\ConditionalStatements\Play-card\obj\Debug\Play-card.pdb
