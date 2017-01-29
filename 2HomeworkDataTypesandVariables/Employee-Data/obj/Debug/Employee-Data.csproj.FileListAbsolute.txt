@@ -1,0 +1,5 @@
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Employee-Data\bin\Debug\Employee-Data.exe.config
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Employee-Data\bin\Debug\Employee-Data.exe
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Employee-Data\bin\Debug\Employee-Data.pdb
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Employee-Data\obj\Debug\Employee-Data.exe
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Employee-Data\obj\Debug\Employee-Data.pdb

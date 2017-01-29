@@ -1,0 +1,5 @@
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Null-Values-Arithmetic\bin\Debug\Null-Values-Arithmetic.exe.config
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Null-Values-Arithmetic\bin\Debug\Null-Values-Arithmetic.exe
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Null-Values-Arithmetic\bin\Debug\Null-Values-Arithmetic.pdb
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Null-Values-Arithmetic\obj\Debug\Null-Values-Arithmetic.exe
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Null-Values-Arithmetic\obj\Debug\Null-Values-Arithmetic.pdb

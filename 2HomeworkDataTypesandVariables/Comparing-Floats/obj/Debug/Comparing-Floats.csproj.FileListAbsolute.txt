@@ -1,0 +1,6 @@
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Comparing-Floats\bin\Debug\Comparing-Floats.exe.config
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Comparing-Floats\bin\Debug\Comparing-Floats.exe
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Comparing-Floats\bin\Debug\Comparing-Floats.pdb
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Comparing-Floats\obj\Debug\Comparing-Floats.exe
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Comparing-Floats\obj\Debug\Comparing-Floats.pdb
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Comparing-Floats\obj\Debug\Comparing-Floats.csprojResolveAssemblyReference.cache

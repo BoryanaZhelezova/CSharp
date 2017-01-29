@@ -1,0 +1,5 @@
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Boolean-Variable\bin\Debug\Boolean-Variable.exe.config
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Boolean-Variable\bin\Debug\Boolean-Variable.exe
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Boolean-Variable\bin\Debug\Boolean-Variable.pdb
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Boolean-Variable\obj\Debug\Boolean-Variable.exe
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Boolean-Variable\obj\Debug\Boolean-Variable.pdb

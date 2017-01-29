@@ -1,0 +1,5 @@
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Bank-Account-Data\bin\Debug\Bank-Account-Data.exe.config
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Bank-Account-Data\bin\Debug\Bank-Account-Data.exe
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Bank-Account-Data\bin\Debug\Bank-Account-Data.pdb
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Bank-Account-Data\obj\Debug\Bank-Account-Data.exe
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Bank-Account-Data\obj\Debug\Bank-Account-Data.pdb

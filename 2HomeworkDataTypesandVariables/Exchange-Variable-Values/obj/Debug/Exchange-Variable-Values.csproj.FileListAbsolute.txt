@@ -1,0 +1,5 @@
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.exe.config
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.exe
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.pdb
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.exe
+D:\Programmierung\C#\HomeworkDataTypesandVariables\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.pdb
