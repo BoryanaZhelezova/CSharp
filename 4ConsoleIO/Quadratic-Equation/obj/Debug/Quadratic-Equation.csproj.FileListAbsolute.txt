@@ -1,0 +1,5 @@
+D:\Programmierung\C#\4ConsoleIO\Quadratic-Equation\bin\Debug\Quadratic-Equation.exe.config
+D:\Programmierung\C#\4ConsoleIO\Quadratic-Equation\bin\Debug\Quadratic-Equation.exe
+D:\Programmierung\C#\4ConsoleIO\Quadratic-Equation\bin\Debug\Quadratic-Equation.pdb
+D:\Programmierung\C#\4ConsoleIO\Quadratic-Equation\obj\Debug\Quadratic-Equation.exe
+D:\Programmierung\C#\4ConsoleIO\Quadratic-Equation\obj\Debug\Quadratic-Equation.pdb

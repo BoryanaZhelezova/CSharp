@@ -1,0 +1,5 @@
+D:\Programmierung\C#\4ConsoleIO\Company-info\bin\Debug\Company-info.exe.config
+D:\Programmierung\C#\4ConsoleIO\Company-info\bin\Debug\Company-info.exe
+D:\Programmierung\C#\4ConsoleIO\Company-info\bin\Debug\Company-info.pdb
+D:\Programmierung\C#\4ConsoleIO\Company-info\obj\Debug\Company-info.exe
+D:\Programmierung\C#\4ConsoleIO\Company-info\obj\Debug\Company-info.pdb

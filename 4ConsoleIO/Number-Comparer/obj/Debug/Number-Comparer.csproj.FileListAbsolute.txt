@@ -1,0 +1,5 @@
+D:\Programmierung\C#\4ConsoleIO\Number-Comparer\bin\Debug\Number-Comparer.exe.config
+D:\Programmierung\C#\4ConsoleIO\Number-Comparer\bin\Debug\Number-Comparer.exe
+D:\Programmierung\C#\4ConsoleIO\Number-Comparer\bin\Debug\Number-Comparer.pdb
+D:\Programmierung\C#\4ConsoleIO\Number-Comparer\obj\Debug\Number-Comparer.exe
+D:\Programmierung\C#\4ConsoleIO\Number-Comparer\obj\Debug\Number-Comparer.pdb

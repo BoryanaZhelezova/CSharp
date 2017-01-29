@@ -1,0 +1,5 @@
+D:\Programmierung\C#\4ConsoleIO\4ConsoleIO\bin\Debug\4ConsoleIO.exe.config
+D:\Programmierung\C#\4ConsoleIO\4ConsoleIO\bin\Debug\4ConsoleIO.exe
+D:\Programmierung\C#\4ConsoleIO\4ConsoleIO\bin\Debug\4ConsoleIO.pdb
+D:\Programmierung\C#\4ConsoleIO\4ConsoleIO\obj\Debug\4ConsoleIO.exe
+D:\Programmierung\C#\4ConsoleIO\4ConsoleIO\obj\Debug\4ConsoleIO.pdb

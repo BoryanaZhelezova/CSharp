@@ -1,0 +1,5 @@
+D:\Programmierung\C#\4ConsoleIO\Sum-of-N-Numbers\bin\Debug\Sum-of-N-Numbers.exe.config
+D:\Programmierung\C#\4ConsoleIO\Sum-of-N-Numbers\bin\Debug\Sum-of-N-Numbers.exe
+D:\Programmierung\C#\4ConsoleIO\Sum-of-N-Numbers\bin\Debug\Sum-of-N-Numbers.pdb
+D:\Programmierung\C#\4ConsoleIO\Sum-of-N-Numbers\obj\Debug\Sum-of-N-Numbers.exe
+D:\Programmierung\C#\4ConsoleIO\Sum-of-N-Numbers\obj\Debug\Sum-of-N-Numbers.pdb

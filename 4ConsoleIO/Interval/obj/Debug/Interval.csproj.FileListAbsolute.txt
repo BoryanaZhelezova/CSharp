@@ -1,0 +1,5 @@
+D:\Programmierung\C#\4ConsoleIO\Interval\bin\Debug\Interval.exe.config
+D:\Programmierung\C#\4ConsoleIO\Interval\bin\Debug\Interval.exe
+D:\Programmierung\C#\4ConsoleIO\Interval\bin\Debug\Interval.pdb
+D:\Programmierung\C#\4ConsoleIO\Interval\obj\Debug\Interval.exe
+D:\Programmierung\C#\4ConsoleIO\Interval\obj\Debug\Interval.pdb

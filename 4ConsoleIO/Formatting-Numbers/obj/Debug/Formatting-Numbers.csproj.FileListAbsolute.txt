@@ -1,0 +1,8 @@
+D:\Programmierung\C#\4ConsoleIO\Formatting-Numbers\bin\Debug\Formatting-Numbers.exe.config
+D:\Programmierung\C#\4ConsoleIO\Formatting-Numbers\bin\Debug\Formatting-Numbers.exe
+D:\Programmierung\C#\4ConsoleIO\Formatting-Numbers\bin\Debug\Formatting-Numbers.pdb
+D:\Programmierung\C#\4ConsoleIO\Formatting-Numbers\obj\Debug\Formatting-Numbers.exe
+D:\Programmierung\C#\4ConsoleIO\Formatting-Numbers\obj\Debug\Formatting-Numbers.pdb
+D:\Programmierung\C#\C#Fundamentals\4ConsoleIO\Formatting-Numbers\bin\Debug\Formatting-Numbers.exe.config
+D:\Programmierung\C#\C#Fundamentals\4ConsoleIO\Formatting-Numbers\obj\Debug\Formatting-Numbers.exe
+D:\Programmierung\C#\C#Fundamentals\4ConsoleIO\Formatting-Numbers\obj\Debug\Formatting-Numbers.pdb
