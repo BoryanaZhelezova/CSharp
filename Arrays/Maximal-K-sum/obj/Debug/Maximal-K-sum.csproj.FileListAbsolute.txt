@@ -1,0 +1,5 @@
+D:\Programmierung\C#\Arrays\Maximal-K-sum\bin\Debug\Maximal-K-sum.exe.config
+D:\Programmierung\C#\Arrays\Maximal-K-sum\bin\Debug\Maximal-K-sum.exe
+D:\Programmierung\C#\Arrays\Maximal-K-sum\bin\Debug\Maximal-K-sum.pdb
+D:\Programmierung\C#\Arrays\Maximal-K-sum\obj\Debug\Maximal-K-sum.exe
+D:\Programmierung\C#\Arrays\Maximal-K-sum\obj\Debug\Maximal-K-sum.pdb

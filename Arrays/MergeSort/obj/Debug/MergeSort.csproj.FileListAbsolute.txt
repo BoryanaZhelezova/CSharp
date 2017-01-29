@@ -1,0 +1,5 @@
+D:\Programmierung\C#\Arrays\MergeSort\bin\Debug\MergeSort.exe.config
+D:\Programmierung\C#\Arrays\MergeSort\bin\Debug\MergeSort.exe
+D:\Programmierung\C#\Arrays\MergeSort\bin\Debug\MergeSort.pdb
+D:\Programmierung\C#\Arrays\MergeSort\obj\Debug\MergeSort.exe
+D:\Programmierung\C#\Arrays\MergeSort\obj\Debug\MergeSort.pdb

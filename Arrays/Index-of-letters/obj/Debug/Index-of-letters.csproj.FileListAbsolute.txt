@@ -1,0 +1,5 @@
+D:\Programmierung\C#\Arrays\Index-of-letters\bin\Debug\Index-of-letters.exe.config
+D:\Programmierung\C#\Arrays\Index-of-letters\bin\Debug\Index-of-letters.exe
+D:\Programmierung\C#\Arrays\Index-of-letters\bin\Debug\Index-of-letters.pdb
+D:\Programmierung\C#\Arrays\Index-of-letters\obj\Debug\Index-of-letters.exe
+D:\Programmierung\C#\Arrays\Index-of-letters\obj\Debug\Index-of-letters.pdb

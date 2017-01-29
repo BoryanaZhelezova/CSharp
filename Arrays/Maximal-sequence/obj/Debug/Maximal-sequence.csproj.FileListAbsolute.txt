@@ -1,0 +1,5 @@
+D:\Programmierung\C#\Arrays\Maximal-sequence\bin\Debug\Maximal-sequence.exe.config
+D:\Programmierung\C#\Arrays\Maximal-sequence\bin\Debug\Maximal-sequence.exe
+D:\Programmierung\C#\Arrays\Maximal-sequence\bin\Debug\Maximal-sequence.pdb
+D:\Programmierung\C#\Arrays\Maximal-sequence\obj\Debug\Maximal-sequence.exe
+D:\Programmierung\C#\Arrays\Maximal-sequence\obj\Debug\Maximal-sequence.pdb

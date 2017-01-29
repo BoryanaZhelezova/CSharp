@@ -1,0 +1,5 @@
+D:\Programmierung\C#\Arrays\Compare_arrays\bin\Debug\Compare_arrays.exe.config
+D:\Programmierung\C#\Arrays\Compare_arrays\bin\Debug\Compare_arrays.exe
+D:\Programmierung\C#\Arrays\Compare_arrays\bin\Debug\Compare_arrays.pdb
+D:\Programmierung\C#\Arrays\Compare_arrays\obj\Debug\Compare_arrays.exe
+D:\Programmierung\C#\Arrays\Compare_arrays\obj\Debug\Compare_arrays.pdb

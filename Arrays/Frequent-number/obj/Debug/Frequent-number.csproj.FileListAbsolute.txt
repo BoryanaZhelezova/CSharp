@@ -1,0 +1,5 @@
+D:\Programmierung\C#\Arrays\Frequent-number\bin\Debug\Frequent-number.exe.config
+D:\Programmierung\C#\Arrays\Frequent-number\bin\Debug\Frequent-number.exe
+D:\Programmierung\C#\Arrays\Frequent-number\bin\Debug\Frequent-number.pdb
+D:\Programmierung\C#\Arrays\Frequent-number\obj\Debug\Frequent-number.exe
+D:\Programmierung\C#\Arrays\Frequent-number\obj\Debug\Frequent-number.pdb
